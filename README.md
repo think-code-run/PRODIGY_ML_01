@@ -30,4 +30,4 @@ Contributions are welcome! If you have suggestions for improvements or new featu
 
 ACKNOWLEDGEMENTS:
 
-This project is part of my internship, and I would like to thank my mentors and team for their support and guidance.
+This TASK is part of my internship, and I would like to give my special thanks to ANDREW NG sir and PRODIGY for providing this opportunity.

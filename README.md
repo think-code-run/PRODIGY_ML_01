@@ -2,7 +2,7 @@
 Welcome to the repository for my first internship project! This project focuses on building and evaluating a Multiple Linear Regression (MLR) model to classify house prices. 
 The goal is to predict the price range of houses based on various features such as size, number of bedrooms, and more.
 
-TASK OVERVIEW:
+# TASK OVERVIEW:
 
 In this task, we aim to:
 
@@ -14,7 +14,7 @@ In this task, we aim to:
 
 4.Refine and Optimize: Improve the model through hyperparameter tuning and advanced feature selection
 
-KEY FEATURES:
+# KEY FEATURES:
 
 Comprehensive Data Analysis: In-depth exploration of the dataset to uncover insights and trends.
 
@@ -24,10 +24,10 @@ Performance Evaluation: Use of metrics like R-squared, Mean Absolute Error (MAE)
 
 Optimization Techniques: Application of techniques to enhance the model's accuracy and reliability.
 
-CONTRIBUTING:
+# CONTRIBUTING:
 
 Contributions are welcome! If you have suggestions for improvements or new features, feel free to open an issue or submit a pull request.
 
-ACKNOWLEDGEMENTS:
+# ACKNOWLEDGEMENTS:
 
 This TASK is part of my internship, and I would like to give my special thanks to ANDREW NG sir and PRODIGY for providing this opportunity.
